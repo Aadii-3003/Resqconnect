@@ -23,10 +23,6 @@ Emergency blood requests are still commonly handled through WhatsApp forwards an
 **Database:** MongoDB Atlas + Mongoose (with geospatial indexing)
 **Auth:** JWT, bcrypt
 
-## Screenshots
-
-*(Add screenshots here — see instructions below)*
-
 ## Running locally
 
 ### Prerequisites
